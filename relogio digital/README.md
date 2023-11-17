@@ -1,4 +1,4 @@
-﻿# relogio-digital
+﻿# Relógio-digital
 ### Mini projeto em Javascript 
 
 - O foco foi desenvolver as habilidades lógicas e praticar a linguagem 
